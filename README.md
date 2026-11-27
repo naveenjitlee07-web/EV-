@@ -1,0 +1,2 @@
+# Product Customer case study
+Extract the ZIP, upload index.html, style.css, script.js and the assets folder to the root of a GitHub repository. In Settings > Pages choose Deploy from a branch, main, / (root), then Save. No build or dependencies required. All illustrations are local SVG concepts. AI is a scripted demonstration. Original Figma files were not accessible; no validated research or outcomes are claimed.
