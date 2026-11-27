@@ -1,2 +1,2 @@
-# Product Customer case study
-Extract the ZIP, upload index.html, style.css, script.js and the assets folder to the root of a GitHub repository. In Settings > Pages choose Deploy from a branch, main, / (root), then Save. No build or dependencies required. All illustrations are local SVG concepts. AI is a scripted demonstration. Original Figma files were not accessible; no validated research or outcomes are claimed.
+# Chargeasy portfolio
+Open index.html to preview. Upload index.html, style.css and script.js to your GitHub repository root. In Settings > Pages select Deploy from a branch, main, / (root), Save. This is a static redesign concept based on available Figma text. UI mockups are HTML/CSS reconstructions, not original screenshots. AI responses are illustrative. No external image dependencies. The reference website could not be retrieved; visual matching is not verified.
